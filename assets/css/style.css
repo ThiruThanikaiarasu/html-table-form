@@ -1,1 +1,26 @@
-/* this is style sheet  */
+.NameTable, tr,td,th
+{
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+
+.TableHeading
+{
+    color: white;
+    background-color: blueviolet;
+}
+
+.ThiruRow
+{
+    background-color: aquamarine;
+}
+
+.SanthoshRow
+{
+    background-color: bisque;
+}
+
+.RahmanRow
+{
+    background-color:cadetblue;
+}
